@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Jan  7 00:01:31 2026
+# Process ID: 16304
+# Current directory: /home/thiru/multidaq_adc_dma/multidaq_adc_dma.runs/design_1_axi_intc_0_0_synth_1
+# Command line: vivado -log design_1_axi_intc_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_axi_intc_0_0.tcl
+# Log file: /home/thiru/multidaq_adc_dma/multidaq_adc_dma.runs/design_1_axi_intc_0_0_synth_1/design_1_axi_intc_0_0.vds
+# Journal file: /home/thiru/multidaq_adc_dma/multidaq_adc_dma.runs/design_1_axi_intc_0_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source design_1_axi_intc_0_0.tcl -notrace
